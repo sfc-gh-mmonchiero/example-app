@@ -1,5 +1,5 @@
 import streamlit as st
-import os
+import os, sys
 
 st.title("Test App!!!")
 
@@ -12,5 +12,6 @@ st.write('test edit')
 st.write(option)
 
 print("Matteo")
+sys.stdout.flush()
 
 st.write(os.getcwd())
