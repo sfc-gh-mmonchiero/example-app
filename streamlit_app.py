@@ -11,7 +11,7 @@ st.write('test edit')
 
 st.write(option)
 
-print("Matteo")
+print("I want tto show the value of this data", value)
 sys.stdout.flush()
 
 st.write(os.getcwd())
