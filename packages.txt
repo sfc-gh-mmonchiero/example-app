@@ -2,3 +2,4 @@ nmap
 dnsutils
 curl
 host
+jq
