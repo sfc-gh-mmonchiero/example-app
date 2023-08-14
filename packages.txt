@@ -1,3 +1,4 @@
 nmap
 dnsutils
 curl
+host
