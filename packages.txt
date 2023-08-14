@@ -3,3 +3,4 @@ dnsutils
 curl
 host
 jq
+iputils
