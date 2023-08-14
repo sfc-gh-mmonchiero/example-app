@@ -3,4 +3,4 @@ dnsutils
 curl
 host
 jq
-iputils
+iputils-ping
